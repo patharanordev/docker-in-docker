@@ -1,0 +1,9 @@
+# All cert files
+certs/*
+# Except readme file
+!certs/README.md
+
+# All data
+data/*
+# Except readme file
+!data/README.md
